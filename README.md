@@ -55,3 +55,44 @@ See `insights.md` for the detailed findings.
 - **Analysis:** MySQL Workbench
 - **Version Control:** Git & GitHub
 - **Documentation:** Markdown
+
+- ## Business Insights
+
+- Electronics and Clothing were among the major contributors to total sales.
+- North region generated the highest total sales among the four regions.
+- Category-level profit margins remained close to 28%.
+- Monthly sales fluctuated during the analyzed period.
+- Year-over-year sales showed a slight decline in 2025 compared with 2024.
+- Higher discount levels showed lower average sales and average profit in the analysis.
+- Customer and product-level analysis helped identify high-value customers and top-performing products.
+
+- ## How to Run the Project
+
+1. Install MySQL and MySQL Workbench.
+2. Create a new MySQL database.
+3. Open `sql/01_database_setup.sql` and execute it.
+4. Load the retail sales dataset into the `retail_sales` table.
+5. Run the SQL scripts sequentially:
+   - `02_data_validation.sql`
+   - `03_business_kpis.sql`
+   - `04_category_analysis.sql`
+   - `05_regional_analysis.sql`
+   - `06_customer_analysis.sql`
+   - `07_product_analysis.sql`
+   - `08_sales_trends.sql`
+   - `09_advanced_analysis.sql`
+6. Review the result sets to analyze sales, profit, customers, products, regional performance and trends.
+
+   ## Author
+
+**Apoorv Singh**
+
+Data Analyst | SQL | Excel | Power BI
+
+This project was created to demonstrate practical SQL skills in data analysis, business KPI analysis, customer analysis, product analysis, and sales trend analysis.
+
+### Connect with Me
+
+- LinkedIn:(https://www.linkedin.com/in/apoorv-singh-688a851a8/)
+- GitHub: (https://github.com/Singhaporv)
+- Email: Apoorvsingh076@gmail.com
