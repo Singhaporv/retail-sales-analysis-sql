@@ -29,6 +29,19 @@ Retail-Sales-Analysis-SQL/
 ├── insights.md
 └── README.md
 ```
+## Key Findings
+
+- Total transactions: **100,000**
+- Total customers: **24,545**
+- Total units sold: **400,404**
+- Total sales: **$127.17M**
+- Average order value: **$12,717.48**
+- Electronics generated the highest category sales.
+- North region recorded the highest total sales among regions.
+- Monthly sales showed fluctuations throughout the year.
+- 2025 sales were approximately **0.67% lower** than 2024.
+- Profit margins across categories remained around **28%**.
+- Higher discount levels were associated with lower average sales and profit in the analyzed data.
 
 ## Key Findings
 Electronics was the largest displayed category by sales and profit. North was the largest displayed region by sales and profit. The displayed top-product results were dominated by Electronics. 2025 sales were 0.67% below 2024, while higher discount levels were associated with lower average sales and profit.
