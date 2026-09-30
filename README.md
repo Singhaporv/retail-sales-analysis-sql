@@ -47,3 +47,11 @@ Retail-Sales-Analysis-SQL/
 Electronics was the largest displayed category by sales and profit. North was the largest displayed region by sales and profit. The displayed top-product results were dominated by Electronics. 2025 sales were 0.67% below 2024, while higher discount levels were associated with lower average sales and profit.
 
 See `insights.md` for the detailed findings.
+
+## Tools & Technologies
+
+- **Database:** MySQL
+- **Query Language:** SQL
+- **Analysis:** MySQL Workbench
+- **Version Control:** Git & GitHub
+- **Documentation:** Markdown
